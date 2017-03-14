@@ -53,6 +53,7 @@
 }
 
 .carousel-caption {
+	position:relative;
   right: 0;
   left: 5%;
   text-align:left;

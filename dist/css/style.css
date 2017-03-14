@@ -40,7 +40,17 @@ hr.hr-shadow{
 
 .nav a{
   color: #999;
+  margin-top:-15px;
+}
 
+.navbar-header {
+	background: #7e5c88;
+}
+.navbar-toggle {
+	background:#9a65aa;
+}
+.navbar-toggle .icon-bar {
+    background-color: #FFF;
 }
 
 .navbar-nav > li > a {
@@ -65,8 +75,8 @@ background-color: #7e5c88;}
 }
 
 .rounded-corners{
-	float:right;
-	margin-right:100px;
+	left:25%;
+	right:25%;
 	width: 380px;
 	height: 380px;
 	border: 24px solid  #7E5C88;
